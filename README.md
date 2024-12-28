@@ -43,7 +43,7 @@ Below is a high-level view of the architecture:
 
 1. **Clone the repository:**
 
-- git clone <https://github.com/Mohaned282/Scalable Web App Deployment with AWS CloudFormation.git>
+- git clone <https://github.com/Mohaned282/cloudformation-scalable-webapp.git>
 - cd cloudformation-project
 
 1. **Deploy the CloudFormation stack:**
